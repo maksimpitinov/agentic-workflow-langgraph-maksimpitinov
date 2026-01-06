@@ -76,7 +76,8 @@ Generador: elabora plan en viñetas con objetivos, recursos, riesgos y acciones 
             ↓                                              │
        [Resultado final] <─────────────────────────────────┘
 
-**## 4. Importaciones y documentación**
+# 4. Importaciones y documentación
+
 """
 
 from __future__ import annotations
